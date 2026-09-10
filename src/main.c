@@ -47,7 +47,7 @@ static SpriteTransform crate_sprites[NUM_CRATES] = {
 };
 
 static SpriteTransform text_sprite = {
-    .pos = { 0.0f, -135.0f },
+    .pos = { 0.0f, -120.0f },
     .rotation = 10.0f,
     .scale = { 1.0f, 1.0f }
 };
